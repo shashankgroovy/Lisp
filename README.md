@@ -25,9 +25,10 @@ Lisp in the late 1950s. And to know why -
   its funny cartoon characters.)</sub>
 + Environment: [Clisp][]
 
-    $ sudo apt-get install clisp
-
-Simply do the above and you are good to go. Enjoy hacking Lisp ;) 
+```
+$ sudo apt-get install clisp
+```
+Enjoy hacking Lisp ;) 
 
 
 [root]: http://www.paulgraham.com/rootsoflisp.html
